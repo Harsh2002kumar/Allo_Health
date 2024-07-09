@@ -1,0 +1,225 @@
+{
+  "labels": [
+    {
+      "id": "pork",
+      "label": "Pork"
+    },
+    {
+      "id": "seafood",
+      "label": "Seafood"
+    },
+    {
+      "id": "kids",
+      "label": "Kids"
+    },
+    {
+      "id": "chicken",
+      "label": "Chicken"
+    },
+    {
+      "id": "beef",
+      "label": "Beef"
+    },
+    {
+      "id": "vegetarian",
+      "label": "Vegetarian"
+    },
+    {
+      "id": "breakfast",
+      "label": "Breakfast"
+    }
+  ],
+  "meals": [
+    {
+      "id": "meal1",
+      "title": "3 course chicken ",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 9.99,
+      "labels": ["chicken", "breakfast", "all"],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4P1tEcECiI7qxJEF5UZ2l5q2wwC1QFGZOdg&usqp=CAU",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99,
+          "img": "https://images.pexels.com/photos/2897305/pexels-photo-2897305.jpeg?cs=srgb&dl=pexels-brett-jordan-2897305.jpg&fm=jpg"
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99,
+          "img": "https://www.eatingwell.com/thmb/NJFf9k59wViDdqO_0kp-Mc-KNH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3749033-b30c69279d9341468bb4cf5dab18c578.jpg"
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NCI_Visuals_Food_Beer.jpg/1200px-NCI_Visuals_Food_Beer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meal2",
+      "title": "3 course Beef ",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": ["beef"],
+      "img": "https://homewithhollyj.com/wp-content/uploads/2019/02/Roasted-Beef-Tenderloin-8.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99,
+          "img": "https://images.pexels.com/photos/2897305/pexels-photo-2897305.jpeg?cs=srgb&dl=pexels-brett-jordan-2897305.jpg&fm=jpg"
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99,
+          "img": "https://www.eatingwell.com/thmb/NJFf9k59wViDdqO_0kp-Mc-KNH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3749033-b30c69279d9341468bb4cf5dab18c578.jpg"
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NCI_Visuals_Food_Beer.jpg/1200px-NCI_Visuals_Food_Beer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meal3",
+      "title": "3 course Vegetarian ",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 79.99,
+      "labels": ["vegetarian"],
+      "img": "https://www.mygfguide.com/wp-content/uploads/2020/11/dhal-portrait-web-1150x1499.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99,
+          "img": "https://images.pexels.com/photos/2897305/pexels-photo-2897305.jpeg?cs=srgb&dl=pexels-brett-jordan-2897305.jpg&fm=jpg"
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99,
+          "img": "https://www.eatingwell.com/thmb/NJFf9k59wViDdqO_0kp-Mc-KNH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3749033-b30c69279d9341468bb4cf5dab18c578.jpg"
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NCI_Visuals_Food_Beer.jpg/1200px-NCI_Visuals_Food_Beer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meal4",
+      "title": "3 course Seafood",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 49.99,
+      "labels": ["seafood"],
+      "img": "https://i.pinimg.com/236x/2c/71/94/2c71946eeff8578e79b6aaba51b2f905--partyfood-fingerfood.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99,
+          "img": "https://images.pexels.com/photos/2897305/pexels-photo-2897305.jpeg?cs=srgb&dl=pexels-brett-jordan-2897305.jpg&fm=jpg"
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99,
+          "img": "https://www.eatingwell.com/thmb/NJFf9k59wViDdqO_0kp-Mc-KNH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3749033-b30c69279d9341468bb4cf5dab18c578.jpg"
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NCI_Visuals_Food_Beer.jpg/1200px-NCI_Visuals_Food_Beer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meal5",
+      "title": "3 course Pork ",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 39.99,
+      "labels": ["pork"],
+      "img": "https://www.allrecipes.com/thmb/AimhpWMWFLvUUjcVPkYx4iFfoa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6307917-honey-garlic-pork-chops-Kim-4x3-1-97ea4f95337a49c1ba0bdc48b65d50d3.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99,
+          "img": "https://images.pexels.com/photos/2897305/pexels-photo-2897305.jpeg?cs=srgb&dl=pexels-brett-jordan-2897305.jpg&fm=jpg"
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99,
+          "img": "https://www.eatingwell.com/thmb/NJFf9k59wViDdqO_0kp-Mc-KNH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3749033-b30c69279d9341468bb4cf5dab18c578.jpg"
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NCI_Visuals_Food_Beer.jpg/1200px-NCI_Visuals_Food_Beer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meal6",
+      "title": "3 course Kids",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 29.99,
+      "labels": ["kids", "breakfast"],
+      "img": "https://cdn-media.cure.fit/image/diy/0d612eaa-1916-437b-a57b-cf641fb07b60",
+      "drinks": [
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99,
+          "img": "https://www.eatingwell.com/thmb/NJFf9k59wViDdqO_0kp-Mc-KNH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3749033-b30c69279d9341468bb4cf5dab18c578.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meal7",
+      "title": "3 course Chicken 2",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": ["chicken"],
+      "img": "https://cook.fnr.sndimg.com/content/dam/images/cook/fullset/2016/3/10/0/CCEMF411H_Tuscan-Chicken_s4x3.jpg.rend.hgtvcom.616.462.suffix/1457635059652.jpeg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99,
+          "img": "https://images.pexels.com/photos/2897305/pexels-photo-2897305.jpeg?cs=srgb&dl=pexels-brett-jordan-2897305.jpg&fm=jpg"
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99,
+          "img": "https://www.eatingwell.com/thmb/NJFf9k59wViDdqO_0kp-Mc-KNH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3749033-b30c69279d9341468bb4cf5dab18c578.jpg"
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NCI_Visuals_Food_Beer.jpg/1200px-NCI_Visuals_Food_Beer.jpg"
+        }
+      ]
+    }
+  ]
+}
