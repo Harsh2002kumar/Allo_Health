@@ -40,6 +40,16 @@ const MealSection = ({ totalPrice, selectedCard }) => {
               </option>
             );
           })}
+          {/* {
+            selectedCard.map((card, index) => {
+              return (
+                <div key={index} className="selected-card">
+                  <div className="item-name">{card.item.title}</div>
+                  <div className="item-selection">Selected</div>
+                </div>
+              );
+            })
+          } */}
         </div>
       ) : (
         ""

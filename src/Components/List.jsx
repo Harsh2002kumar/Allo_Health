@@ -1,7 +1,7 @@
 import React from "react";
 import "../Style.css";
 
-const List = ({ name, selectedLabelClick, selected, label }) => {
+const List = ({ name, LabelClick, selected, label }) => {
   const buttonStyle = {
     border: selected ? "1px solid #730099" : "1px solid black",
     backgroundColor: selected ? "#f9e6ff" : "#fff",
@@ -10,7 +10,7 @@ const List = ({ name, selectedLabelClick, selected, label }) => {
   };
 
   const handleClick = () => {
-    selectedLabelClick(label);
+    LabelClick(label);
   };
 
   return (
